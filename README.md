@@ -1,7 +1,7 @@
 - 👋 Hi, I’m giovaaass :)
 - 👀 I’m interested in coding and developement
 - 🌱 I’m currently learning c++
-- 📫 How to reach me: Instagram; @giovannisorge_
+- 📫 You can reach me on Instagram - @giovannisorge_
 
 <!---
 giovaaass/giovaaass is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
